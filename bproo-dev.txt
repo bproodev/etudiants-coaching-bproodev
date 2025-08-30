@@ -1,0 +1,10 @@
+Nom: Kamdjou
+Prenom: Duplex
+Pays: Cameroun
+Ville: Douala-Yaounde
+Date-de-debut: Mai 2025
+
+Mon Contact: 
+    - WhatsApp: +237 670274538
+    - Email: hello@bproodev.com
+    - SiteWeb: https://www.bproodev.com
