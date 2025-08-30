@@ -1,0 +1,5 @@
+Nom: Traore
+Prenom: Soualo
+Pays: GUINEE
+Ville: CONAKRY
+Date-de-debut: 28 Aout 2025
